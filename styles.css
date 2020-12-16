@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Nixie One', cursive;
+  top: 300px;
+  font-size: 3rem;
+  margin: auto auto 0px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  color: #66BFBF;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.topcontainer {
+  background-color: #e8e8e8;
+  height: 600px;
+}
+
+.intro {
+  position: relative;
+  bottom: 225px;
+  color: white;
+}
+
+.profession {
+  color: white;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.myface {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  position: relative;
+  bottom: 550px;
+}
+
+.canyon {
+  height: 600px;
+  width: 100%;
+  position: relative;
+}
+.profile{
+  margin-top: 60px;
+}
+.computer {
+  border-radius: 100%;
+
+  width: 25%;
+
+}
+.uni{
+  border-radius: 100%;
+  width: 25%;
+}
+
+.skill-row{
+  width: 50%;
+
+  margin:60px auto 60px auto;
+
+}
+
+.contact-me {
+  width: 50%;
+  margin: 60px auto 60px auto;
+}
+
+
+.rocket{
+  border-radius: 100%;
+  width: 25%;
+}
+.LinkedIn {
+  height: 50px;
+  width: 50px;
+}
+
+.Instagram {
+  height: 50px;
+  width: 50px;
+}
+
+.email {
+  height: 50px;
+  width: 50px;
+  margin-right: 5px;
+}
+
+.copyright {
+  padding-top: 30px;
+  margin-top: 60px;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 5px;
+}
+
+.footer{
+background-color: #ecf4f3;
+color: white;
+}
+.flaticon{
+  color: white;
+}
